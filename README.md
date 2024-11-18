@@ -6,4 +6,4 @@
 ### Yes, PRINCE X is good at executing scripts, it supports scripts for games eg: The Strongest Battlegrounds, some executors like Hoshi Z are unable to provide certain features of some scripts, luckily our executor can execute scripts well and not have these errors.
 
 # Social Media
-[Discord](dc.gg/getPrinceX)
+[Discord](https://dc.gg/getPrinceX)
